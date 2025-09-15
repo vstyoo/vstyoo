@@ -1,9 +1,9 @@
-### 👀 Hi there!
+### Hi there!👀
 
-I'm <u>Vstyoo</u>, a student just starting out in the world of programming.  
-I enjoy working on design-related projects, which is why I'm passionate about <u>frontend development</u> 🎨💻  
+I'm <ins>Vstyoo</ins>, a student just starting out in the world of programming.  
+I enjoy working on design-related projects, which is why I'm passionate about <ins>frontend development</ins>  
 
-Outside of VSCode, you can usually find me exploring the world of online games 🎮  
+Outside of VSCode, you can usually find me exploring the world of online games  
 
 ---
 
